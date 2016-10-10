@@ -1,0 +1,20 @@
+body {
+background-color : blue;
+}
+
+.center {
+	text-align: center;
+}
+
+li {
+	
+	list-style: none;
+}
+
+
+.titre {
+
+border: solid 2px black;
+border-radius: 15px;
+
+}
