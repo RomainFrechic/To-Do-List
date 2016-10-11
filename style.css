@@ -9,12 +9,19 @@ form {
 }
 
 .style{
-	
-	text-align: :center;
+	background-color: orange; 
+	text-align:center;
 
 }
 
+.style2{
+	background-color:yellow;
+}
 
+body{
+     text-align:center;
+	background-color:green;
+}
 
 #button{
     display: inline-block;
