@@ -5,7 +5,16 @@ body{
 
 form {
     display: inline-block;
+    
 }
+
+.style{
+	
+	text-align: :center;
+
+}
+
+
 
 #button{
     display: inline-block;
@@ -25,3 +34,13 @@ form {
 	color:#cc0000;
 }
 
+.cocher{
+	text-decoration: line-through; 
+	color : red;
+
+}
+
+li {
+	list-style: none;
+	
+}
